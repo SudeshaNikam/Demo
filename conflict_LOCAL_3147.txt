@@ -1,6 +1,3 @@
 fst line
 
 demo first
-=======
-sec line
-

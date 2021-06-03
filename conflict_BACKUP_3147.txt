@@ -1,0 +1,7 @@
+fst line
+
+<<<<<<< HEAD
+demo first
+=======
+sec line
+>>>>>>> eacbfeb13f3ad069a8bf327f98c59bdbfdee7bc3
